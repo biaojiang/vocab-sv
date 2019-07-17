@@ -12,3 +12,6 @@ _
 .. attribute:: undersöker 
 
 ``v.`` examine
+
+.. attribute:: misstänkta
+``adj`` suspicious
