@@ -7,11 +7,20 @@ A
 E
 -
 
+M
+_
+.. attribute:: misstänkt
+
+``adj.`` suspicious
+
+S
+_
+.. attributesl:: slår
+``v.`` 〈att slå, slog, har slagit, är slagen, slå!〉
+hit, beat, knock, strike.
+
 U
 _
 .. attribute:: undersöker 
 
 ``v.`` examine
-
-.. attribute:: misstänkta
-``adj`` suspicious
