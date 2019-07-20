@@ -7,15 +7,23 @@ A
 E
 -
 
+H
+_
+. attribute:: händelse
+
+``n.`` event, occurrence, accident
+
 M
 _
-.. attribute:: misstänkt
+. attribute:: misstänkt
 
 ``adj.`` suspicious
 
+
 S
 _
-.. attributesl:: slår
+.. attribute:: slår
+
 ``v.`` 〈att slå, slog, har slagit, är slagen, slå!〉
 hit, beat, knock, strike.
 
@@ -24,3 +32,17 @@ _
 .. attribute:: undersöker 
 
 ``v.`` examine
+
+.. attribute:: uppmanar
+
+``v.`` request
+
+.. attribute:: utmaning
+
+``n.`` challenge
+
+Ö
+_
+.. attribute:: övertygar
+
+``v.`` convince
