@@ -5,11 +5,26 @@ Phrases
 A
 -
 
+B
+-
+
+.. attribute:: bland annat
+
+among other things
+
 E
 -
 
 J
-_
+-
+
 .. attribute:: Ja visst!
 
 Of course!
+
+T
+-
+
+.. attribute:: till slut
+
+finally

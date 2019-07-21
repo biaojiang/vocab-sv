@@ -8,27 +8,50 @@ E
 -
 
 H
-_
-. attribute:: händelse
+-
+
+.. attribute:: händelse
 
 ``n.`` event, occurrence, accident
 
+.. attribute:: hos
+
+``prep.`` with, among, at, by
+
+.. attribute:: hittills
+
+``adverb`` so far, hitherto, up to now, until now
+
+L
+-
+
+.. attribute:: lär
+
+``v.`` 〈att lära, lärde, har lärt, är lärd, lär!〉
+teach
+
 M
-_
-. attribute:: misstänkt
+-
+
+.. attribute:: misstänkt
 
 ``adj.`` suspicious
 
-
 S
-_
+-
+
 .. attribute:: slår
 
 ``v.`` 〈att slå, slog, har slagit, är slagen, slå!〉
 hit, beat, knock, strike.
 
+.. attribute:: syfte
+``v.`` 〈syftet, syften, syftena〉
+purpose.
+
 U
-_
+-
+
 .. attribute:: undersöker 
 
 ``v.`` examine
@@ -37,12 +60,17 @@ _
 
 ``v.`` request
 
+.. attribute:: uppmärksamhet
+
+``subst.`` attention
+
 .. attribute:: utmaning
 
 ``n.`` challenge
 
 Ö
-_
+-
+
 .. attribute:: övertygar
 
 ``v.`` convince

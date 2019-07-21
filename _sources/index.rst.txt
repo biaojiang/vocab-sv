@@ -6,6 +6,14 @@
 Welcome to Swedish Vocabulary!
 ====================================
 
+This is a Swedish vocabulary with most of the translations coming from `Folkets Lexikon <http://folkets-lexikon.csc.kth.se/folkets/>`_
+and `Lexin – ett samarbete mellan Institutet för språk och folkminnen och Kungliga tekniska högskolan <https://lexin.nada.kth.se/lexin/>`_, and `Google Translate <https://translate.google.se>`_ as well.
+
+The main purpose is to help build up, remember and search the words and phrases commonly used, which were collected from the popular Swedish News and TV programs, like `SVT.se <https://www.svt.se>`_, 
+`8 Sidor - Lättlästa nyhete <https://8sidor.se>`_, and other social media articles. 
+
+For the more detailed usages, it needs to look up the more professional Swedish-English dictionaries.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
