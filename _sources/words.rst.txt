@@ -4,8 +4,29 @@ Words
 A
 -
 
+B
+-
+.. attribute:: ber
+
+``〈att be, bad, har bett, är bedd, be!〉`` 
+begär. Beg, ask, request
+
 E
 -
+
+F
+-
+.. attribute:: försöker
+
+try, attempt
+
+G
+-
+.. attribute:: ger
+
+``〈att ge, gav, har gett eller givit, är given, ge!〉``
+give
+
 
 H
 -
@@ -28,11 +49,10 @@ L
 .. attribute:: lär
 
 ``v.`` 〈att lära, lärde, har lärt, är lärd, lär!〉
-teach
+teac
 
 M
 -
-
 .. attribute:: misstänkt
 
 ``adj.`` suspicious
@@ -45,13 +65,31 @@ S
 ``v.`` 〈att slå, slog, har slagit, är slagen, slå!〉
 hit, beat, knock, strike.
 
+.. attribute:: störtar
+
+``v.`` sv: faller hårt, rasar
+
+en: overthrow, bring down, rush
+
 .. attribute:: syfte
+
 ``v.`` 〈syftet, syften, syftena〉
 purpose.
 
+.. attribute:: sviker
+
+``v.`` 〈att svika, svek, har svikit, är sviken, svik!〉
+sv: missbrukar förtroende, bryter ett löfte. en: fail
+
+T
+-
+.. attribute:: tillverkar
+
+``v.`` sv: framställer, fabricerar, 
+en: manufacture.
+
 U
 -
-
 .. attribute:: undersöker 
 
 ``v.`` examine
