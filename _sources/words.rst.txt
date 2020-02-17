@@ -20,8 +20,17 @@ F
 
 try, attempt
 
+.. attribute:: förändring
+
+change
+
+.. attribute:: förlorar
+
+``〈att förlora, förlorade, har förlorat, är förlorad, förlora!〉``
+lost
+
 G
--
+`
 .. attribute:: ger
 
 ``〈att ge, gav, har gett eller givit, är given, ge!〉``
@@ -43,19 +52,40 @@ H
 
 ``adverb`` so far, hitherto, up to now, until now
 
+J
+-
+.. attribute:: jordbävning
+
+earthquake
+
+
 L
 -
 
 .. attribute:: lär
 
 ``v.`` 〈att lära, lärde, har lärt, är lärd, lär!〉
-teac
+
+.. attribute::lugn
+
+``adj.`` <lugnt, lugna> calm
 
 M
 -
 .. attribute:: misstänkt
 
 ``adj.`` suspicious
+
+R
+-
+.. attribute:: reder
+
+``〈att reda, redde, har rett, är redd, red!〉```
+sort out
+
+.. attribute:: vägrar
+
+``v.`` refuse
 
 S
 -
@@ -65,11 +95,20 @@ S
 ``v.`` 〈att slå, slog, har slagit, är slagen, slå!〉
 hit, beat, knock, strike.
 
+.. attribute:: sådan
+
+``pron.`` 〈sådant (sånt), sådana (såna)〉
+av samma sort, likadan; such
+
 .. attribute:: störtar
 
 ``v.`` sv: faller hårt, rasar
 
 en: overthrow, bring down, rush
+
+.. attribute:: svämma över
+
+flood over
 
 .. attribute:: syfte
 
